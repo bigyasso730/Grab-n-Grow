@@ -1,0 +1,94 @@
+GRAB 'N GROW
+Mod Policy & End-User License Agreement
+Version 1.0, Effective June 2026
+
+By installing or distributing a Grab 'n Grow mod you acknowledge that you have read, understood, and agreed to be bound by this Mod Policy & EULA.
+
+================================================================================
+
+Thank you for modding Grab 'n Grow. The mod system exposes a rich set of hooks, events, and data-driven controls so the community can build new experiences on top of the game. By creating, distributing, or installing any mod you agree to the terms set out in this document.
+
+
+1. DEFINITIONS
+
+- "Game" means the Grab 'n Grow application, including all source code, assets, audio, and game data files.
+- "Mod" means any Python script, asset bundle, JSON configuration, or other file placed in the game's mods/ directory and loaded by the mod system at runtime.
+- "Modder" means any individual or organisation who creates or publishes a Mod.
+- "User" means any individual who installs or plays with a Mod.
+- "Vanilla" means the unmodified Game as distributed by the developer.
+
+
+2. LICENSE GRANT
+
+2.1 Modding Permission
+
+Subject to the terms of this Policy, the developer grants Modders a limited, non-exclusive, royalty-free license to:
+
+- Interact with the Game's public mod APIs and hooks.
+- Create derivative works in the form of Mods that extend, modify, or replace Game content.
+- Distribute Mods free of charge through community channels (forums, GitHub, mod repositories, and similar).
+
+2.2 Restrictions
+
+This license does NOT permit you to:
+
+- Sell a Mod independently, charge for access to a Mod, or package a Mod with paid software without prior written permission from the developer.
+- Access or depend on internal Game APIs not intended for public use. Any class, function, or attribute not documented as part of the public mod system is considered private and may change without notice.
+- Re-distribute the Game itself, in whole or in part, as part of a Mod package.
+- Remove or alter copyright or attribution notices in Game files.
+- Use Grab 'n Grow branding (name, logo, or artwork) in a way that implies official endorsement.
+
+
+3. ACCEPTABLE USE
+
+3.1 Permitted Content
+
+Mods may add new entities, gameplay elements, audio, UI, and visual effects using the public mod system. Mods may read and write to the game's save directory using established patterns, and may declare dependencies on other Mods via standard metadata.
+
+3.2 Prohibited Content
+
+Mods must NOT contain or facilitate:
+
+- Malicious code of any kind, including code that reads, exfiltrates, or deletes files outside the game's base directory.
+- Network requests of any kind.
+- Cryptocurrency mining, adware, spyware, or any background process unrelated to the Game.
+- Content that is illegal in the jurisdiction of the developer or that violates the rights of third parties (e.g. unlicensed copyrighted assets).
+- Content that targets, harasses, or demeans specific individuals or groups.
+- Explicit adult or graphic violent content.
+
+4. MOD DISTRIBUTION
+
+1. Modders are solely responsible for the content they distribute.
+2. Mods must not impersonate an official Game update or present themselves as originating from the developer.
+3. When distributing a Mod that includes third-party assets (art, audio, code libraries), the Modder must have appropriate rights to those assets and must credit the original authors.
+4. Modders should clearly disclose if a Mod modifies save files in ways that may be irreversible.
+5. If a Mod is hosted on a third-party platform, the Modder is responsible for complying with that platform's terms of service in addition to this Policy.
+
+
+5. COMPATIBILITY & UPDATES
+
+The developer will make reasonable efforts to maintain backward compatibility of public mod APIs within a major version, but no guarantee is made that Mods will work without modification after a Game update. The developer is not responsible for maintaining or updating third-party Mods.
+
+
+6. LIABILITY & WARRANTY DISCLAIMER
+
+Mods are provided by their authors "as is" and without warranty of any kind. The developer does not review, endorse, or vouch for the safety or correctness of any third-party Mod, and is not liable for any data loss, save-file corruption, or other harm arising from the use of a Mod. Users install Mods at their own risk. Always back up your save files before enabling new Mods.
+
+
+7. ENFORCEMENT
+
+The developer reserves the right to revoke modding privileges from any Modder who repeatedly or egregiously violates this Policy, and to issue takedown requests for Mods that violate applicable law or the Prohibited Content rules above. This Policy may be updated at any time; continued distribution of a Mod after an update constitutes acceptance of the revised Policy.
+
+
+8. GOVERNING LAW
+
+This Policy is governed by the laws of the jurisdiction in which the developer is registered. Any disputes that cannot be resolved informally shall be submitted to the exclusive jurisdiction of the courts of that jurisdiction.
+
+
+9. CONTACT
+
+For questions, permission requests, or to report a violation, contact the developer at contact.grabngrow@gmail.com
+
+================================================================================
+
+Grab 'n Grow Mod Policy v1.0.0 — June 2026
